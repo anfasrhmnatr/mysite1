@@ -1,0 +1,21 @@
+
+body{
+    
+    background-image: url(SL_042620_30310_36.jpg);
+
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(41, 43, 48);
+}
+
+a{
+    text-decoration: none;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    align-items: center;
+}
+th{color: cornflowerblue;}
